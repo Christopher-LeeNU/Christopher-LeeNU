@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Chris Lee's Projects!
-description: Hi there! I am a Mechanical Engineer out of Northwestern University. I am interested in electromechanical systems and robotics.
+description: I am a Mechanical Engineer out of Northwestern University. I am interested in electromechanical systems and robotics.
