@@ -1,5 +1,3 @@
-theme: cayman
-
 ### Hi there 👋
 
 <!--
