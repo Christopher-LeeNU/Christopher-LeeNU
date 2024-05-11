@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Chris Lee
 
 <!--
 **Christopher-LeeNU/Christopher-LeeNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
