@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Your Project Name
+
+Description of your project.
+
+## Installation
+
+Instructions on how to install your project.
+
+## Usage
+
+Instructions on how to use your project.
+
+## Contributing
+
+Instructions on how to contribute to your project.
+
+## License
+
+Information about the license of your project.
